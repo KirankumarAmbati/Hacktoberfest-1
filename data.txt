@@ -2,4 +2,4 @@ Name: David Colombo
 Bio: Developer Hacker and System Administrator
 Location: Germany
 Interests: Technology
-Social Media: root:h4ck3r
+Social Media: root_h4ck3r
