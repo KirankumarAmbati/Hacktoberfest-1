@@ -5,3 +5,9 @@ Interests: Technology
 Social Media: root_h4ck3r
 
 Kirankumar Ambati - Frontend - India - Twitter: _sudo_user
+
+Name: Anıl Yılmaz
+Bio: Web Developer
+Location: Turkey
+Interests: Technology
+Social Media: anilyilmazz
