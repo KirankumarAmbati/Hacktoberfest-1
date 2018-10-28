@@ -5,3 +5,9 @@ Interests: Technology
 Social Media: root_h4ck3r
 
 Kirankumar Ambati - Frontend - India - Twitter: _sudo_user
+
+Name: KarthikMadupu
+Bio: Developer Hacker and Java Programmer
+Location: India
+Interests: Technology
+
